@@ -1,2 +1,2 @@
-# job-agent
+# career.agent
 A framework for engineers hunting for work
